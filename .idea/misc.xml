@@ -5,11 +5,12 @@
       <map>
         <entry key="..\:/Belajar/app/src/main/res/layout/activity_main.xml" value="0.259375" />
         <entry key="..\:/Belajar/app/src/main/res/layout/belajar_bro.xml" value="0.264" />
-        <entry key="..\:/Belajar/app/src/main/res/layout/belajar_relative.xml" value="0.24166666666666667" />
-        <entry key="..\:/Belajar/app/src/main/res/layout/constrain_dua.xml" value="0.264" />
-        <entry key="..\:/Belajar/app/src/main/res/layout/constraint_layout.xml" value="0.264" />
         <entry key="..\:/Data Android Project/Belajar/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Data Android Project/Belajar/app/src/main/res/layout/belajar_bro.xml" value="0.11388888888888889" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/layout/belajar_bro.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/layout/constrain_dua.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/constraint_layout.xml" value="0.25833333333333336" />
       </map>
     </option>
   </component>

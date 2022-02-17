@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/gambar"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        tools:src="@tools:sample/avatars"
+        />
+    <ImageView
+        android:id="@+id/gambar1"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/gambar"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        tools:src="@tools:sample/avatars" />
+    <ImageView
+        android:id="@+id/gambar2"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/gambar1"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        tools:src="@tools:sample/avatars"
+        />
+
+    <ImageView
+        android:id="@+id/gambar3"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:layout_below="@id/gambar"
+        android:layout_toRightOf="@id/gambar1"
+        tools:src="@tools:sample/avatars" />
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_toRightOf="@id/gambar3"
+        android:text="wkwkkwkwkwkwkwkkw" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_below="@id/text1"
+        android:layout_toRightOf="@id/gambar3"
+        android:text="ckckckckckkckckc" />
+</RelativeLayout>

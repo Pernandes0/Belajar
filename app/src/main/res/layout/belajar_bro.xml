@@ -27,10 +27,11 @@
     <!-- sekali pake toright, below, tidak dapat digunakan lagi-->
     <TextView
         android:id="@+id/Nandes2"
+        android:layout_toRightOf="@id/gambar"
+        android:layout_below="@id/Nandes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginTop="8dp"
-        android:layout_below="@id/gambar"
         android:text="ckckckckkcckckc" />
 </RelativeLayout>
